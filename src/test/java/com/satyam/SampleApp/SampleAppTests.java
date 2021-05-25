@@ -1,4 +1,4 @@
-package com.shashi.App31;
+package com.satyam.SampleApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
